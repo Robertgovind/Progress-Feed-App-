@@ -13,7 +13,7 @@ class Profile extends StatelessWidget {
       body: Column(
         children: [
           SizedBox(
-            height: 20,
+            height: 21,
           ),
           Row(
             children: [
