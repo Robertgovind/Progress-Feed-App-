@@ -19,7 +19,7 @@ Details
 
 Team:Radhe Radhe
 
-Members: [Govind kumar Yadav](https://github.com/Robertgovind), [Dhiraj Chaurasiya](https://github.com/dhirajchaurasiya10), Utkarsha Gupta, [Prabin Thapa](https://github.com/PYN-TUM) <hr><br>
+Members: [Govind kumar Yadav](https://github.com/Robertgovind), [Dhiraj Chaurasiya](https://github.com/dhirajchaurasiya10), [Utkarsha Gupta](https://github.com/Utkarsha88), [Prabin Thapa](https://github.com/peakie108) <hr><br>
 
 # Running this project
 - Clone the project
